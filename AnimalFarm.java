@@ -1,6 +1,7 @@
 /**
  * ICS 211 Subclass/Superclass Example *
  * Animal Farm
+ * This is the driver class for this project.
  * 
  * @author Mark Nelson
  */
